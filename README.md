@@ -1,7 +1,6 @@
 # ARM 5-Stage Pipelined CPU
 
-Designed in SystemVerilog for EE 469 (Computer Architecture) 
-at the University of Washington.
+Designed in SystemVerilog at the University of Washington.
 
 ## Overview
 A fully functional 5-stage pipelined CPU implementing a subset 
